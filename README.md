@@ -10,5 +10,6 @@ social media
 favorite movies/shows
 - 10 things I hate about you
 - Anne with an e
+- how to lose a guy in 10 days
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5cLtAIKcZFiGEiYQ90GbIe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
